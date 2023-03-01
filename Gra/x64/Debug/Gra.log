@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Bullet.cpp
+E:\Pendrive\Czerwiec\Gra\Bullet.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Computer.cpp
+E:\Pendrive\Czerwiec\Gra\Ship.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Gra.cpp
+E:\Pendrive\Czerwiec\Gra\Gra.cpp(6,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Window.hpp': No such file or directory
+  Ship.cpp
+E:\Pendrive\Czerwiec\Gra\Ship.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Generowanie kodu...
